@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+
+
+
+<projet>
+	<package>Rest<package>sousPack1<class>Bonjour</class><package>sous-sousPack1<package>sousSousSousPack1<class>test</class></package></package></package><class>Participants</class></package>
+
+	<class>Binome</class>
+	<class>Participants</class>
+	<class>Resultats</class>
+	<class>Quatuor</class>
+	<class>ishish</class>
+
+
+</projet>
+
